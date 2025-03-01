@@ -1,0 +1,48 @@
+body {
+    background-color: #96cbd8; /* Light background */
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1{
+    color: #fc4a4a;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2 {
+    color: #333;
+    text-align: left;
+}
+
+
+p {
+    font-size: 18px;
+    color: #444;
+}
+
+b {
+    font-weight: bold;
+}
+
+i {
+    font-style: italic;
+}
+
+u {
+    text-decoration: underline;
+}
+
+.center {
+    text-align: center;
+}
+
+.highlight {
+    color: blue;
+}
+
+pre {
+    background: #e8e8e8;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+}
